@@ -37,8 +37,8 @@
   "homepage": "https://github.com/Weetbix/facebot#readme",
   "dependencies": {
     "async": "^1.5.0",
-    "facebook-chat-api": "git+https://github.com/Schmavery/facebook-chat-api",
-    "js-emoji": "git+https://github.com/iamcal/js-emoji.git",
+    "facebook-chat-api": "https://github.com/Schmavery/facebook-chat-api.git",
+    "js-emoji": "https://github.com/iamcal/js-emoji.git",
     "pg": "^4.4.3",
     "mysql": "^2.13.0",
     "q": "^1.4.1",
